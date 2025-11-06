@@ -1,1 +1,3 @@
-Jens-Christian Skibakk
+name: Jens-Christian Skibakk
+color: Green
+food: Pizza
